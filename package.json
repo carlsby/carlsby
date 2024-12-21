@@ -28,5 +28,6 @@
         "path": "./themes/Carlsby Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "images/carlsby.webp" 
 }
