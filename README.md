@@ -1,3 +1,4 @@
+![alt text](images/carlsby.webp)
 # Carlsby's Purple Dark Theme
 
 ## Overview
