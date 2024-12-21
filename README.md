@@ -1,4 +1,4 @@
-# Carlsby's Custom Dark Theme
+# Carlsby's Purple Dark Theme
 
 ## Overview
 
