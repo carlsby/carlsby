@@ -19,7 +19,6 @@ Carlsby's Custom Dark Theme is ideal for:
 
 - **Late-Night Work Sessions:** The dark background helps minimize eye strain while keeping you focused and productive.
 - **Coding:** With code-friendly syntax highlighting in subtle tones of purple, this theme is perfect for developers working in code editors or IDEs.
-- **Media Consumption:** Whether browsing, watching videos, or simply exploring, this theme makes for a pleasant visual experience.
 
 ## License
 
