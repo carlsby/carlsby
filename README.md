@@ -1,4 +1,8 @@
-# <img src="images/carlsby_logo.png" alt="Logo" width="80" height="80"> Carlsby's Purple Dark Theme
+<div style="float: right; margin-left: 10px;">
+  <img src="images/carlsby.webp" alt="Logo" width="80" height="80">
+</div>
+
+# Carlsby's Purple Dark Theme
 
 ## Overview
 
