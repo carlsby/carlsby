@@ -1,4 +1,6 @@
-# <img src="images/carlsby_logo.png" alt="Logo" width="80" height="80"> Carlsby's Purple Dark Theme
+<img src="images/carlsby_logo.png" alt="Logo" width="80" height="80"> 
+
+# Carlsby's Purple Dark Theme
 
 ## Overview
 
