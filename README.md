@@ -1,4 +1,6 @@
-# <img src="images/carlsby.webp" alt="Logo" width="40" height="40"> Carlsby's Purple Dark Theme
+# Carlsby's Purple Dark Theme
+
+<img src="images/carlsby.webp" alt="Logo" width="80" height="80">
 
 ## Overview
 
