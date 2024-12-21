@@ -2,7 +2,7 @@
 
 ## Overview
 
-Carlsby's Custom Dark Theme is a sophisticated and sleek dark purple theme designed to provide a visually stunning and easy-on-the-eyes experience. With its dark background and contrasting purple accents, this theme creates an immersive environment that's both functional and aesthetically pleasing. Specifically tailored for Carlsby, this theme offers a personalized touch while ensuring readability and a modern look.
+Carlsby's Purple Dark Theme is a sophisticated and sleek dark purple theme designed to provide a visually stunning and easy-on-the-eyes experience. With its dark background and contrasting purple accents, this theme creates an immersive environment that's both functional and aesthetically pleasing. Specifically tailored for Carlsby, this theme offers a personalized touch while ensuring readability and a modern look.
 
 ## Features
 
@@ -15,7 +15,7 @@ Carlsby's Custom Dark Theme is a sophisticated and sleek dark purple theme desig
 
 ## Usage
 
-Carlsby's Custom Dark Theme is ideal for:
+Carlsby's Purple Dark Theme is ideal for:
 
 - **Late-Night Work Sessions:** The dark background helps minimize eye strain while keeping you focused and productive.
 - **Coding:** With code-friendly syntax highlighting in subtle tones of purple, this theme is perfect for developers working in Visual Studio Code.
