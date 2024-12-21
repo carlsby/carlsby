@@ -1,0 +1,21 @@
+{
+  "name": "carlsby-dark-theme",
+  "displayName": "carlsby-dark-theme",
+  "description": "A theme tailored for Carlsby",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carlsby Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carlsby Theme-color-theme.json"
+      }
+    ]
+  }
+}
