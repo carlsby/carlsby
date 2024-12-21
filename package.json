@@ -2,7 +2,7 @@
   "name": "carlsby-dark-theme",
   "displayName": "carlsby-dark-theme",
   "description": "A theme tailored for Carlsby",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Carlsby",
   "engines": {
     "vscode": "^1.96.0"
