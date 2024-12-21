@@ -1,5 +1,5 @@
-![alt text](images/carlsby.webp)
-# Carlsby's Purple Dark Theme
+<img src="logo.png" alt="Logo" width="40" height="40" style="border-radius: 50%; display: inline-block; vertical-align: middle;">
+Carlsby's Purple Dark Theme
 
 ## Overview
 
