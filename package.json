@@ -1,8 +1,8 @@
 {
-  "name": "carlsbys-purple-dark",
+  "name": "carlsby-purple-dark-theme",
   "displayName": "Carlsbys Purple Dark",
   "description": "A theme tailored for Carlsby",
-  "version": "0.11.0",
+  "version": "0.10.0",
   "publisher": "Carlsby",
   "engines": {
     "vscode": "^1.96.0"
