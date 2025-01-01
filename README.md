@@ -1,4 +1,4 @@
-<img src="images/carlsby.webp" alt="Logo" width="80" height="80"> 
+<img src="images/carlsby.png" alt="Logo" width="80" height="80"> 
 
 # Carlsby's Purple Dark Theme
 
@@ -25,3 +25,6 @@ Carlsby's Purple Dark Theme is ideal for:
 ## License
 
 This theme is licensed under the MIT License. Feel free to use it, modify it, and distribute it as per the terms of the license.
+
+## Attributes
+Logo from <a href="https://uxwing.com/">uxwing.com</a>. Free to use under their <a href="https://uxwing.com/license/">license</a>.
