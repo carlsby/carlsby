@@ -1,6 +1,6 @@
 # Change Log
 
-## 2024-12-30: Logo change
+## 2025-01-01: Logo change
 * Changed logo to a dinosaur
 
 ## 2024-12-30: Recoloring
